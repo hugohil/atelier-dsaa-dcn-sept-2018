@@ -8,7 +8,7 @@ const groups = 6
 
 const words = {
   verbs: ['suivre','fuir','apercevoir','diriger','tourner','cacher'],
-  adjectives: ['agité.e','immobile','symètrique','équitable','calme','pénible'],
+  adjectives: ['agité.e','immobile','symètrique','équitable','calme','multiple'],
   nouns: ['astre','circuit','étendue','arbre','oiseau','animal','boîte','bruit','bloc','fleur','surprise','mer']
 }
 
