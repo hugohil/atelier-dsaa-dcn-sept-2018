@@ -2,6 +2,12 @@
 
 > s'initier au design génératif et à la création visuelle par le code. Se concentrer sur des contraintes simples pour travailler en groupe, s'attacher à une méthodologie et comprendre les techniques.
 
+## Vos mots
+
+```
+{{ your-words }}
+```
+
 ## Les instructions
 
 * il y a 6 binômes
@@ -40,7 +46,3 @@ your-project/
 ## Les ressources
 
 ## Le déroulement
-
-## Vos mots
-
-`{{ your-words }}`
