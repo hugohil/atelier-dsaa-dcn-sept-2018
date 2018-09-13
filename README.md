@@ -36,3 +36,11 @@ your-project/
 ├── .gitignore
 └── cover.png # ou cover.gif
 ```
+
+## Les ressources
+
+## Le déroulement
+
+## Vos mots
+
+`{{ your-words }}`
