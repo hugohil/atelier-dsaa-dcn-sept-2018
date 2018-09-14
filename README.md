@@ -50,16 +50,17 @@ your-project/
 
 #### références
 
-* [Creative Applications](http://www.creativeapplications.net/)
-* [Zach Lieberman](https://www.instagram.com/zach.lieberman/)
+* [The Algorists](http://www.algorists.org/algorist.html)
 * [Vera Molnar](http://www.veramolnar.com/)
+* [Creative Applications](http://www.creativeapplications.net/)
+* [F.A.B](https://freeartbureau.org/)
 * [John Maeda](https://maedastudio.com/)
-* [Matt Pearson](http://zenbullets.com/)
 * [Casey Reas](http://reas.com/)
+* [Zach Lieberman](https://www.instagram.com/zach.lieberman/)
+* [Office for Creative Research](https://ocr.nyc/)
+* [Matt Pearson](http://zenbullets.com/)
 * [Karsten Schmidt](http://thi.ng/)
 * [Matt Deslauriers](https://www.mattdesl.com/)
-* [Office for Creative Research](https://ocr.nyc/)
-* [Kyle McDonald](http://www.kylemcdonald.net/)
 * [Joshua Davis](https://joshuadavis.com/)
 
 #### design génératif
