@@ -1,12 +1,6 @@
 # for each (words)
 
-> s'initier au design génératif et à la création visuelle par le code. Se concentrer sur des contraintes simples pour travailler en groupe, s'attacher à une méthodologie et approfondir sa connaissance du code.
-
-## Vos mots
-
-```
-{{ your-words }}
-```
+&rarr; s'initier au design génératif et à la création visuelle par le code. Se concentrer sur des contraintes simples pour travailler en groupe, s'attacher à une méthodologie et approfondir sa connaissance du code.
 
 ## Les instructions
 
@@ -21,77 +15,6 @@
 * vous êtes libres dans le format de votre rendu (portrait, paysage, carré, 16:9, 16:10, 4:3, ...)
 * vous utilisez le français ou l'anglais dans la documentation
 * vous utilisez l'anglais dans le code et les noms de fichiers
-
-## Les conseils
-
-* l'interaction n'est pas obligatoire
-* l'animation n'est pas obligatoire
-
-## Le rendu
-
-votre rendu se compose de :
-
-* votre sketch Processing
-* une capture de votre sketch ou une image générée à partir de celui-ci
-* une documentation sous la forme d'un fichier `README.md`
-
-votre dossier est structuré comme ceci :
-
-```
-your-project/
-├── your-processing-sketch/
-│   ├── your-processing-sketch.pde
-│   └── ... (dossiers `data/`, fichiers de classe, etc)
-├── README.md
-└── cover.png # (ou cover.gif)
-```
-
-## Les ressources
-
-#### références
-
-* [The Algorists](http://www.algorists.org/algorist.html)
-* [Vera Molnar](http://www.veramolnar.com/)
-* [Creative Applications](http://www.creativeapplications.net/)
-* [F.A.B](https://freeartbureau.org/)
-* [John Maeda](https://maedastudio.com/)
-* [Casey Reas](http://reas.com/)
-* [Zach Lieberman](https://www.instagram.com/zach.lieberman/)
-* [Office for Creative Research](https://ocr.nyc/)
-* [Matt Pearson](http://zenbullets.com/)
-* [Karsten Schmidt](http://thi.ng/)
-* [Matt Deslauriers](https://www.mattdesl.com/)
-* [Joshua Davis](https://joshuadavis.com/)
-
-#### design génératif
-
-* [The Nature of Code](https://natureofcode.com/book/)
-* [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)
-* [Tyler Hobbs](http://www.tylerlhobbs.com/writings/) :
-  * [Randomness in composition](http://www.tylerlhobbs.com/writings/randomness-in-composition)
-  * [Probability distribution for artists](http://www.tylerlhobbs.com/writings/probability-distributions-for-artists)
-  * [Texture Study: Grass](http://www.tylerlhobbs.com/writings/texture-study-grass)
-  * [Working with color in generative art](http://www.tylerlhobbs.com/writings/generative-colors)
-  * [Tips to improve your generative artwork](http://www.tylerlhobbs.com/writings/tips)
-* [Generative Artistry](https://generativeartistry.com/)
-
-#### trello
-
-* [Trello](https://trello.com)
-* [comment utiliser Trello](https://trello.com/b/o1JJSFJp/bienvenue-sur-trello-comment-lutiliser)
-* [méthodologie kanban](https://fr.atlassian.com/agile/kanban)
-
-#### markdown
-
-* [Markdown tutorial](https://www.markdowntutorial.com)
-* [Markdown syntax](https://daringfireball.net/projects/markdown/)
-
-#### aller plus loin
-
-* [The Book of Shaders](https://thebookofshaders.com/)
-* [Shell Inititation](https://github.com/patriciogonzalezvivo/Shell-Initiation)
-* [Présentation Git](https://louvainlinux.github.io/atelier-git/src/build_latex/main.pdf)
-* [Interaction of Color](https://yalebooks.yale.edu/book/9780300179354/interaction-color)
 
 ## Le déroulement
 
@@ -109,3 +32,43 @@ your-project/
 
 * bilans individuels
 * présentation collective
+
+## Le resultat
+
+### "Le bruit de l'astre symétrique, j'aperçois." — Bernadette Kalaj & Nathan Agranat
+
+> Notre but était de créer un petite interaction entre l'utilisateur et un "astre".
+À travers un nuage de points en mouvement nous avons voulus matérialiser un bruit lointain.
+Avec la souris, il est possible d'aperçevoir de manière plus précise une zone de l'astre et en découvrir les contours.
+
+![](./assets/luminary0.png)
+
+<video src="./assets/luminary1.mov" autoplay loop muted></video>
+
+### "Calmement dans une boite tourne la mer" — Marion Robin & Charlène Brun
+
+> Lorsque la sourie est pressée, le Cube tourne sur deux axes, sur ses faces se joue une texture vidéo de vague.
+La matière du cube dialogue avec le fond créant un effet de fausse perspective qui met en abime l’immensité de l’océan.
+
+![](./assets/seabox.png)
+
+### "La fleur suit le circuit agité" — Nicolas Christmann & Théo Rocquancourt
+
+> L’idée de notre projet était de créer une forme générée de manière aléatoire, la rendant organique. Elle se développe en suivant un circuit à chaque fois unique et se répand jusqu’à recouvrir la totalité de la fenêtre. Nous jouons sur l’attente de la révélation d’un message dissimulé dans l’écran, amenant inévitablement à la déception.
+
+![](./assets/fleur-circuit0.png)
+![](./assets/fleur-circuit1.png)
+![](./assets/fleur-circuit2.png)
+
+### "L’oiseau est un animal migrateur qui parcours le monde chaque année. Suivant les saisons, il se dirige équitablement vers l’hémisphère nord ou l’hémisphère sud" —  Alice Herbreteau & Alice Sanz
+
+> BIRDS est un script processing basé sur une liste de mot générée aléatoirement. À partir des mots : animal, oiseau, diriger, équitable, nous avons établi l’énoncé suivant : «  L’oiseau est un animal migrateur qui parcours le monde chaque année. Suivant les saisons, il se dirige équitablement vers l’hémisphère nord ou l’hémisphère sud ». Nous voulons créer une image animée comprenant deux groupes avec le même nombre d’éléments , l’un attiré vers le haut de la fenêtre, l’autre vers le bas. Leurs mouvements d’attractions devront rappeler le vol des oiseaux.
+
+![](./assets/birds0.gif)
+![](./assets/birds1.png)
+
+### "How to create an extending surprise by running away from immobility?" — Sylvie Nguyen & Clara Shoenlaub
+
+> Have fun!
+
+![](./assets/extending-surprise.png)
