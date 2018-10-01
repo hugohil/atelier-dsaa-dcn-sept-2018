@@ -72,3 +72,9 @@ La matière du cube dialogue avec le fond créant un effet de fausse perspective
 > Have fun!
 
 ![](./assets/extending-surprise.png)
+
+### "Un bloc est caché derrière de multiples arbres." — Solène Lombard & Grégoire Ormières
+
+<video src="./assets/tree.mov" autoplay loop muted max-width="1280" width="100%"></video>
+
+> D’après une série de 4  mots: Arbre, bloc, cacher, multiple (générée aléatoirement), nous avons créé une phrase: « Un bloc est caché derrière de multiples arbres». Cette phrase est le point de départ de notre jeu.
