@@ -5,7 +5,7 @@
 ## Les instructions
 
 * vous êtes un **binôme**
-* vous avez une **série de 4 mots** (2 noms, 1 adjéctif, 1 verbe) générée aléatoirement
+* vous avez une **série de 4 mots** (2 noms, 1 adjectif, 1 verbe) générée aléatoirement
 * vous construisez un **énoncé** à partir de ces mots, cette phrase est le titre de votre rendu et inspire son contenu
 * vous utilisez **[Processing](https://processing.org)**
 * votre programme n'utilise pas de son (il n'en reçoit pas, il n'en emet pas)
