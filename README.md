@@ -43,7 +43,7 @@ Avec la souris, il est possible d'aperçevoir de manière plus précise une zone
 
 ![](./assets/luminary0.png)
 
-<video src="./assets/luminary1.mov" autoplay loop muted></video>
+<video src="./assets/luminary1.mov" autoplay loop muted max-width="1280" width="100%"></video>
 
 ### "Calmement dans une boite tourne la mer" — Marion Robin & Charlène Brun
 
